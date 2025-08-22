@@ -78,7 +78,7 @@ graph TD
 ## 📫 Contact Me
 
 - **GitHub:** [soumik183](https://github.com/soumik183)
-- **Email:** [your-email@example.com] (replace with your email!)
+- **Email:** soumikbairagi213@gmail.com  
 
 ---
 
